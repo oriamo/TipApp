@@ -85,6 +85,7 @@ fun TopHeader(totalPerPerson: Double = 133.0){
             Text(text = "Total per person", style = MaterialTheme.typography.headlineMedium)
             Text(text = "$$total", style = MaterialTheme.typography.headlineSmall, fontWeight = FontWeight.ExtraBold)
             Text(text = "experimental")
+            Text(text = "youtube")
 
         }
     }
